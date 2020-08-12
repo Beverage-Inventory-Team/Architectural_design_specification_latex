@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.4.7)  11 AUG 2020 18:32
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.4.7)  12 AUG 2020 14:51
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -457,9 +457,11 @@ Package: longtable 2020/01/07 v4.13 Multi-page Table package (DPC)
 Package: sets 
 \c@s@tlength=\count268
 )
-File architectural_design_specification.hst not found.
+Reading file architectural_design_specification.hst...
+(./architectural_design_specification.hst)
 \vh@verfile=\write3
-) (/usr/local/texlive/2020/texmf-dist/tex/latex/url/url.sty
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip17
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
@@ -492,7 +494,7 @@ File: l3backend-pdfmode.def 2020-03-12 L3 backend support: PDF mode
 \l__kernel_color_stack_int=\count269
 \l__pdf_internal_box=\box56
 )
-No file architectural_design_specification.aux.
+(./architectural_design_specification.aux)
 \openout1 = `architectural_design_specification.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 66.
@@ -512,6 +514,7 @@ LaTeX Font Info:    ... okay on input line 66.
 LaTeX Font Info:    Checking defaults for MDA/cmr/m/n on input line 66.
 LaTeX Font Info:    Trying to load font information for MDA+cmr on input line 6
 6.
+
 (/usr/local/texlive/2020/texmf-dist/tex/latex/mathdesign/mdacmr.fd
 File: mdacmr.fd 
 )
@@ -632,11 +635,6 @@ LaTeX Font Info:    Font shape `T1/mdbch/b/fsc' will be
 (Font)              scaled to size 11.52008pt on input line 80.
 LaTeX Font Info:    Font shape `T1/mdbch/m/n' will be
 (Font)              scaled to size 8.64006pt on input line 81.
-LaTeX Font Info:    Font shape `T1/mdbch/b/n' will be
-(Font)              scaled to size 8.64006pt on input line 81.
-
-
-LaTeX Warning: Reference `LastPage' on page 1 undefined on input line 81.
 
 [1
 
@@ -659,34 +657,100 @@ LaTeX Font Info:    Font shape `T1/mdbch/b/fsc' will be
 Underfull \vbox (badness 10000) detected at line 26
  []
 
+) [2] (./architectural_design_specification.toc
+LaTeX Font Info:    Trying to load font information for OT1+mdbch on input line
+ 3.
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/mathdesign/mdbch/ot1mdbch.fd
+File: ot1mdbch.fd 2013/08/29 Fontinst v1.933 font definitions for OT1/mdbch.
 )
+LaTeX Font Info:    Font shape `OT1/mdbch/m/n' will be
+(Font)              scaled to size 10.51207pt on input line 3.
+LaTeX Font Info:    Font shape `OT1/mdbch/m/n' will be
+(Font)              scaled to size 7.68005pt on input line 3.
+LaTeX Font Info:    Font shape `OT1/mdbch/m/n' will be
+(Font)              scaled to size 5.76004pt on input line 3.
+LaTeX Font Info:    Trying to load font information for OML+mdbch on input line
+ 3.
 
-LaTeX Warning: Reference `LastPage' on page 2 undefined on input line 97.
+(/usr/local/texlive/2020/texmf-dist/tex/latex/mathdesign/mdbch/omlmdbch.fd
+File: omlmdbch.fd 2013/08/29 Fontinst v1.933 font definitions for OML/mdbch.
+)
+LaTeX Font Info:    Font shape `OML/mdbch/m/it' will be
+(Font)              scaled to size 10.51207pt on input line 3.
+LaTeX Font Info:    Font shape `OML/mdbch/m/it' will be
+(Font)              scaled to size 7.68005pt on input line 3.
+LaTeX Font Info:    Font shape `OML/mdbch/m/it' will be
+(Font)              scaled to size 5.76004pt on input line 3.
+LaTeX Font Info:    Trying to load font information for OMS+mdbch on input line
+ 3.
 
-[2]
-No file architectural_design_specification.toc.
+(/usr/local/texlive/2020/texmf-dist/tex/latex/mathdesign/mdbch/omsmdbch.fd
+File: omsmdbch.fd 2013/08/29 Fontinst v1.933 font definitions for OMS/mdbch.
+)
+LaTeX Font Info:    Font shape `OMS/mdbch/m/n' will be
+(Font)              scaled to size 10.51207pt on input line 3.
+LaTeX Font Info:    Font shape `OMS/mdbch/m/n' will be
+(Font)              scaled to size 7.68005pt on input line 3.
+LaTeX Font Info:    Font shape `OMS/mdbch/m/n' will be
+(Font)              scaled to size 5.76004pt on input line 3.
+LaTeX Font Info:    Trying to load font information for OMX+mdbch on input line
+ 3.
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/mathdesign/mdbch/omxmdbch.fd
+File: omxmdbch.fd 2013/08/29 Fontinst v1.933 font definitions for OMX/mdbch.
+)
+LaTeX Font Info:    Font shape `OMX/mdbch/m/n' will be
+(Font)              scaled to size 10.51207pt on input line 3.
+LaTeX Font Info:    Font shape `OMX/mdbch/m/n' will be
+(Font)              scaled to size 7.68005pt on input line 3.
+LaTeX Font Info:    Font shape `OMX/mdbch/m/n' will be
+(Font)              scaled to size 5.76004pt on input line 3.
+LaTeX Font Info:    Font shape `OML/mdbch/m/n' will be
+(Font)              scaled to size 10.51207pt on input line 3.
+LaTeX Font Info:    Font shape `OML/mdbch/m/n' will be
+(Font)              scaled to size 7.68005pt on input line 3.
+LaTeX Font Info:    Font shape `OML/mdbch/m/n' will be
+(Font)              scaled to size 5.76004pt on input line 3.
+LaTeX Font Info:    Trying to load font information for MDA+mdbch on input line
+ 3.
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/mathdesign/mdbch/mdamdbch.fd
+File: mdamdbch.fd 2013/08/29 Fontinst v1.933 font definitions for MDA/mdbch.
+)
+LaTeX Font Info:    Font shape `MDA/mdbch/m/n' will be
+(Font)              scaled to size 10.51207pt on input line 3.
+LaTeX Font Info:    Font shape `MDA/mdbch/m/n' will be
+(Font)              scaled to size 7.68005pt on input line 3.
+LaTeX Font Info:    Font shape `MDA/mdbch/m/n' will be
+(Font)              scaled to size 5.76004pt on input line 3.
+LaTeX Font Info:    Trying to load font information for MDB+mdbch on input line
+ 3.
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/mathdesign/mdbch/mdbmdbch.fd
+File: mdbmdbch.fd 2013/08/29 Fontinst v1.933 font definitions for MDB/mdbch.
+)
+LaTeX Font Info:    Font shape `MDB/mdbch/m/n' will be
+(Font)              scaled to size 10.51207pt on input line 3.
+LaTeX Font Info:    Font shape `MDB/mdbch/m/n' will be
+(Font)              scaled to size 7.68005pt on input line 3.
+LaTeX Font Info:    Font shape `MDB/mdbch/m/n' will be
+(Font)              scaled to size 5.76004pt on input line 3.
+)
 \tf@toc=\write5
 \openout5 = `architectural_design_specification.toc'.
 
 
-LaTeX Warning: Reference `LastPage' on page 3 undefined on input line 102.
-
-[3]
-No file architectural_design_specification.lof.
+[3] (./architectural_design_specification.lof)
 \tf@lof=\write6
 \openout6 = `architectural_design_specification.lof'.
 
-No file architectural_design_specification.lot.
+
+(./architectural_design_specification.lot)
 \tf@lot=\write7
 \openout7 = `architectural_design_specification.lot'.
 
-
-LaTeX Warning: Reference `LastPage' on page 4 undefined on input line 107.
-
-[4] (./tex/introduction.tex)
-
-LaTeX Warning: Reference `LastPage' on page 5 undefined on input line 112.
-
+ [4] (./tex/introduction.tex)
 [5] (./tex/system_overview.tex
 <images/ADS.jpg, id=23, 558.085pt x 351.3125pt>
 File: images/ADS.jpg Graphic file (type jpg)
@@ -695,218 +759,175 @@ Package pdftex.def Info: images/ADS.jpg  used on input line 5.
 (pdftex.def)             Requested size: 281.85587pt x 177.43016pt.
 LaTeX Font Info:    Font shape `T1/mdbch/b/n' will be
 (Font)              scaled to size 11.52008pt on input line 9.
-)
 
-LaTeX Warning: Reference `LastPage' on page 6 undefined on input line 115.
 
-[6 <./images/ADS.jpg>]
+! Package inputenc Error: Keyboard character used is undefined
+(inputenc)                in inputencoding `latin1'.
 
-LaTeX Warning: Reference `LastPage' on page 7 undefined on input line 115.
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.16 ...is includes login credentials, a productâ€
+                                                  ™s name, flavor, type and ...
 
-[7] (./tex/data_flow.tex
-<images/Arc.jpg, id=31, 463.7325pt x 443.6575pt>
-File: images/Arc.jpg Graphic file (type jpg)
-<use images/Arc.jpg>
-Package pdftex.def Info: images/Arc.jpg  used on input line 6.
-(pdftex.def)             Requested size: 469.75502pt x 449.43091pt.
-)
+? 
 
-LaTeX Warning: Reference `LastPage' on page 8 undefined on input line 118.
+! Package inputenc Error: Keyboard character used is undefined
+(inputenc)                in inputencoding `latin1'.
 
-[8 <./images/Arc.jpg>] (./tex/x_layer_subsystems.tex
-<images/Presentation.jpg, id=36, 463.7325pt x 112.42pt>
-File: images/Presentation.jpg Graphic file (type jpg)
-<use images/Presentation.jpg>
-Package pdftex.def Info: images/Presentation.jpg  used on input line 8.
-(pdftex.def)             Requested size: 281.85587pt x 68.32907pt.
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.16 ...s includes login credentials, a productâ€™
+                                                  s name, flavor, type and s...
+
+? 
+) [6 <./images/ADS.jpg>] [7] (./tex/data_flow.tex
+<images/Full.png, id=31, 467.7475pt x 353.32pt>
+File: images/Full.png Graphic file (type png)
+<use images/Full.png>
+Package pdftex.def Info: images/Full.png  used on input line 5.
+(pdftex.def)             Requested size: 469.75502pt x 354.85562pt.
+) [8 <./images/Full.png>]
+(./tex/x_layer_subsystems.tex
+<images/App.jpg, id=36, 462.72874pt x 131.49126pt>
+File: images/App.jpg Graphic file (type jpg)
+<use images/App.jpg>
+Package pdftex.def Info: images/App.jpg  used on input line 15.
+(pdftex.def)             Requested size: 281.85587pt x 80.09317pt.
 LaTeX Font Info:    Font shape `T1/mdbch/b/fsc' will be
-(Font)              scaled to size 10.51207pt on input line 12.
-LaTeX Font Info:    Trying to load font information for OT1+mdbch on input line
- 24.
+(Font)              scaled to size 10.51207pt on input line 19.
 
-(/usr/local/texlive/2020/texmf-dist/tex/latex/mathdesign/mdbch/ot1mdbch.fd
-File: ot1mdbch.fd 2013/08/29 Fontinst v1.933 font definitions for OT1/mdbch.
-)
-LaTeX Font Info:    Font shape `OT1/mdbch/m/n' will be
-(Font)              scaled to size 10.51207pt on input line 24.
-LaTeX Font Info:    Font shape `OT1/mdbch/m/n' will be
-(Font)              scaled to size 7.68005pt on input line 24.
-LaTeX Font Info:    Font shape `OT1/mdbch/m/n' will be
-(Font)              scaled to size 5.76004pt on input line 24.
-LaTeX Font Info:    Trying to load font information for OML+mdbch on input line
- 24.
+Underfull \hbox (badness 10000) in paragraph at lines 36--36
+[]|\T1/mdbch/m/n/10.95 Email ID, User
+ []
 
-(/usr/local/texlive/2020/texmf-dist/tex/latex/mathdesign/mdbch/omlmdbch.fd
-File: omlmdbch.fd 2013/08/29 Fontinst v1.933 font definitions for OML/mdbch.
-)
-LaTeX Font Info:    Font shape `OML/mdbch/m/it' will be
-(Font)              scaled to size 10.51207pt on input line 24.
-LaTeX Font Info:    Font shape `OML/mdbch/m/it' will be
-(Font)              scaled to size 7.68005pt on input line 24.
-LaTeX Font Info:    Font shape `OML/mdbch/m/it' will be
-(Font)              scaled to size 5.76004pt on input line 24.
-LaTeX Font Info:    Trying to load font information for OMS+mdbch on input line
- 24.
 
-(/usr/local/texlive/2020/texmf-dist/tex/latex/mathdesign/mdbch/omsmdbch.fd
-File: omsmdbch.fd 2013/08/29 Fontinst v1.933 font definitions for OMS/mdbch.
-)
-LaTeX Font Info:    Font shape `OMS/mdbch/m/n' will be
-(Font)              scaled to size 10.51207pt on input line 24.
-LaTeX Font Info:    Font shape `OMS/mdbch/m/n' will be
-(Font)              scaled to size 7.68005pt on input line 24.
-LaTeX Font Info:    Font shape `OMS/mdbch/m/n' will be
-(Font)              scaled to size 5.76004pt on input line 24.
-LaTeX Font Info:    Trying to load font information for OMX+mdbch on input line
- 24.
+Underfull \hbox (badness 10000) in paragraph at lines 36--36
+\T1/mdbch/m/n/10.95 name, pass-word,
+ []
 
-(/usr/local/texlive/2020/texmf-dist/tex/latex/mathdesign/mdbch/omxmdbch.fd
-File: omxmdbch.fd 2013/08/29 Fontinst v1.933 font definitions for OMX/mdbch.
-)
-LaTeX Font Info:    Font shape `OMX/mdbch/m/n' will be
-(Font)              scaled to size 10.51207pt on input line 24.
-LaTeX Font Info:    Font shape `OMX/mdbch/m/n' will be
-(Font)              scaled to size 7.68005pt on input line 24.
-LaTeX Font Info:    Font shape `OMX/mdbch/m/n' will be
-(Font)              scaled to size 5.76004pt on input line 24.
-LaTeX Font Info:    Font shape `OML/mdbch/m/n' will be
-(Font)              scaled to size 10.51207pt on input line 24.
-LaTeX Font Info:    Font shape `OML/mdbch/m/n' will be
-(Font)              scaled to size 7.68005pt on input line 24.
-LaTeX Font Info:    Font shape `OML/mdbch/m/n' will be
-(Font)              scaled to size 5.76004pt on input line 24.
-LaTeX Font Info:    Trying to load font information for MDA+mdbch on input line
- 24.
 
-(/usr/local/texlive/2020/texmf-dist/tex/latex/mathdesign/mdbch/mdamdbch.fd
-File: mdamdbch.fd 2013/08/29 Fontinst v1.933 font definitions for MDA/mdbch.
-)
-LaTeX Font Info:    Font shape `MDA/mdbch/m/n' will be
-(Font)              scaled to size 10.51207pt on input line 24.
-LaTeX Font Info:    Font shape `MDA/mdbch/m/n' will be
-(Font)              scaled to size 7.68005pt on input line 24.
-LaTeX Font Info:    Font shape `MDA/mdbch/m/n' will be
-(Font)              scaled to size 5.76004pt on input line 24.
-LaTeX Font Info:    Trying to load font information for MDB+mdbch on input line
- 24.
+Underfull \hbox (badness 4779) in paragraph at lines 36--36
+\T1/mdbch/m/n/10.95 Age, First Name
+ []
 
-(/usr/local/texlive/2020/texmf-dist/tex/latex/mathdesign/mdbch/mdbmdbch.fd
-File: mdbmdbch.fd 2013/08/29 Fontinst v1.933 font definitions for MDB/mdbch.
-)
-LaTeX Font Info:    Font shape `MDB/mdbch/m/n' will be
-(Font)              scaled to size 10.51207pt on input line 24.
-LaTeX Font Info:    Font shape `MDB/mdbch/m/n' will be
-(Font)              scaled to size 7.68005pt on input line 24.
-LaTeX Font Info:    Font shape `MDB/mdbch/m/n' will be
-(Font)              scaled to size 5.76004pt on input line 24.
 
-! Undefined control sequence.
-l.27 ...& Description of the interface/bus & \pbox
-                                                  {3cm}{input 1 \\ input 2} ...
-
-? 
-! Missing } inserted.
-<inserted text> 
-                }
-l.27 ...he interface/bus & \pbox{3cm}{input 1 \\ i
-                                                  nput 2} & \pbox{3cm}{outpu...
-
-? 
-! Extra }, or forgotten \endgroup.
-l.27 ...rface/bus & \pbox{3cm}{input 1 \\ input 2}
-                                                   & \pbox{3cm}{output 1}  \...
-
-? 
-
-Underfull \hbox (badness 10000) in paragraph at lines 27--27
-[]|\T1/mdbch/m/n/10.95 input
+Underfull \hbox (badness 1558) in paragraph at lines 36--36
+[]|\T1/mdbch/m/n/10.95 Registered or de-
  []
 
 ! Undefined control sequence.
-l.27 ...s & \pbox{3cm}{input 1 \\ input 2} & \pbox
-                                                  {3cm}{output 1}  \\ \hline
+l.37 ...lication. This will include Login. & \pbox
+                                                  {username, password} & \pb...
+
 ? 
+
+Underfull \hbox (badness 10000) in paragraph at lines 37--37
+[]|\T1/mdbch/m/n/10.95 username, pass-
+ []
+
 ! Undefined control sequence.
-l.28 ...& Description of the interface/bus & \pbox
-                                                  {3cm}{N/A} & \pbox{3cm}{ou...
+l.37 ...Login. & \pbox{username, password} & \pbox
+                                                  {login success or denied d...
 
 ? 
-! Undefined control sequence.
-l.28 ...he interface/bus & \pbox{3cm}{N/A} & \pbox
-                                                  {3cm}{output 1}  \\ \hline
-? 
-)
 
-LaTeX Warning: Reference `LastPage' on page 9 undefined on input line 121.
+Underfull \hbox (badness 10000) in paragraph at lines 37--37
+[]|\T1/mdbch/m/n/10.95 login suc-cess or
+ []
 
-[9 <./images/Presentation.jpg>]
+[9 <./images/App.jpg>]
+File: images/App.jpg Graphic file (type jpg)
+<use images/App.jpg>
+Package pdftex.def Info: images/App.jpg  used on input line 50.
+(pdftex.def)             Requested size: 281.85587pt x 80.09317pt.
 
-LaTeX Warning: Reference `LastPage' on page 10 undefined on input line 121.
+Underfull \hbox (badness 10000) in paragraph at lines 69--69
+[]|\T1/mdbch/m/n/10.95 Lists of prod-uct
+ []
 
-[10] (./tex/y_layer_subsystems.tex
-<images/Application.jpg, id=43, 463.7325pt x 132.495pt>
-File: images/Application.jpg Graphic file (type jpg)
-<use images/Application.jpg>
-Package pdftex.def Info: images/Application.jpg  used on input line 12.
-(pdftex.def)             Requested size: 281.85587pt x 80.53069pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 69--69
+\T1/mdbch/m/n/10.95 that match the
+ []
+
+[10]
+File: images/App.jpg Graphic file (type jpg)
+<use images/App.jpg>
+Package pdftex.def Info: images/App.jpg  used on input line 79.
+(pdftex.def)             Requested size: 281.85587pt x 80.09317pt.
+
+Underfull \hbox (badness 2261) in paragraph at lines 98--98
+\T1/mdbch/m/n/10.95 uct or search by
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 98--98
+\T1/mdbch/m/n/10.95 spe-cific re-quire-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 98--98
+[]|\T1/mdbch/m/n/10.95 Detailed de-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 98--98
+\T1/mdbch/m/n/10.95 scrip-tion of the
+ []
+
+) [11] (./tex/y_layer_subsystems.tex
+File: images/App.jpg Graphic file (type jpg)
+<use images/App.jpg>
+Package pdftex.def Info: images/App.jpg  used on input line 11.
+(pdftex.def)             Requested size: 281.85587pt x 80.09317pt.
 LaTeX Font Info:    Trying to load font information for TS1+mdbch on input line
- 18.
+ 17.
 
 (/usr/local/texlive/2020/texmf-dist/tex/latex/mathdesign/mdbch/ts1mdbch.fd
 File: ts1mdbch.fd 2013/08/29 Fontinst v1.933 font definitions for TS1/mdbch.
 )
 LaTeX Font Info:    Font shape `TS1/mdbch/m/n' will be
-(Font)              scaled to size 10.51207pt on input line 18.
+(Font)              scaled to size 10.51207pt on input line 17.
 
 ! Undefined control sequence.
-l.39 ...& Description of the interface/bus & \pbox
-                                                  {3cm}{input 1 \\ input 2} ...
-
-? 
-! Missing } inserted.
-<inserted text> 
-                }
-l.39 ...he interface/bus & \pbox{3cm}{input 1 \\ i
-                                                  nput 2} & \pbox{3cm}{outpu...
-
-? 
-! Extra }, or forgotten \endgroup.
-l.39 ...rface/bus & \pbox{3cm}{input 1 \\ input 2}
-                                                   & \pbox{3cm}{output 1}  \...
+l.33     \#1 & Appplication to Data Access & \pbox
+                                                  {Scanned Barcode ID} & \pb...
 
 ? 
 
-Underfull \hbox (badness 10000) in paragraph at lines 39--39
-[]|\T1/mdbch/m/n/10.95 input
+Underfull \hbox (badness 8094) in paragraph at lines 33--33
+[]|\T1/mdbch/m/n/10.95 Scanned Bar-code
  []
 
 ! Undefined control sequence.
-l.39 ...s & \pbox{3cm}{input 1 \\ input 2} & \pbox
-                                                  {3cm}{output 1}  \\ \hline
+l.33 ...Access & \pbox{Scanned Barcode ID} & \pbox
+                                                  {Product ID}  \\ \hline
 ? 
 ! Undefined control sequence.
-l.40 ...& Description of the interface/bus & \pbox
-                                                  {3cm}{N/A} & \pbox{3cm}{ou...
+l.34 ...#xx & Appplication to Presentation & \pbox
+                                                  {Data} & \pbox{Data in rea...
 
 ? 
 ! Undefined control sequence.
-l.40 ...he interface/bus & \pbox{3cm}{N/A} & \pbox
-                                                  {3cm}{output 1}  \\ \hline
+l.34 ...tion to Presentation & \pbox{Data} & \pbox
+                                                  {Data in readable format} ...
+
 ? 
-)
 
-LaTeX Warning: Reference `LastPage' on page 11 undefined on input line 124.
+Underfull \hbox (badness 3417) in paragraph at lines 34--34
+[]|\T1/mdbch/m/n/10.95 Data in read-able
+ []
 
-[11 <./images/Application.jpg>]
-
-LaTeX Warning: Reference `LastPage' on page 12 undefined on input line 124.
-
-[12] (./tex/z_layer_subsystems.tex
-<images/Data.jpg, id=50, 463.7325pt x 142.5325pt>
-File: images/Data.jpg Graphic file (type jpg)
-<use images/Data.jpg>
-Package pdftex.def Info: images/Data.jpg  used on input line 8.
-(pdftex.def)             Requested size: 281.85587pt x 86.6315pt.
+) [12] (./tex/z_layer_subsystems.tex
+<images/DS.jpg, id=49, 462.72874pt x 141.52875pt>
+File: images/DS.jpg Graphic file (type jpg)
+<use images/DS.jpg>
+Package pdftex.def Info: images/DS.jpg  used on input line 8.
+(pdftex.def)             Requested size: 281.85587pt x 86.20715pt.
 
 ! Undefined control sequence.
 l.27 ...& Description of the interface/bus & \pbox
@@ -943,46 +964,29 @@ l.28 ...& Description of the interface/bus & \pbox
 l.28 ...he interface/bus & \pbox{3cm}{N/A} & \pbox
                                                   {3cm}{output 1}  \\ \hline
 ? 
-)
-
-LaTeX Warning: Reference `LastPage' on page 13 undefined on input line 127.
-
-[13 <./images/Data.jpg>]
-
-LaTeX Warning: Reference `LastPage' on page 14 undefined on input line 127.
-
-[14]
+) [13 <./images/DS.jpg>] [14]
 No file architectural_design_specification.bbl.
 
-Package lastpage Warning: Rerun to get the references right on input line 134.
-
-
 AED: lastpage setting LastPage
-(./architectural_design_specification.aux)
-
-LaTeX Warning: There were undefined references.
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
- ) 
+(./architectural_design_specification.aux) ) 
 Here is how much of TeX's memory you used:
- 6663 strings out of 480608
- 92318 string characters out of 5903631
- 336758 words of memory out of 5000000
- 22334 multiletter control sequences out of 15000+600000
- 592501 words of font info for 86 fonts, out of 8000000 for 9000
+ 6664 strings out of 480608
+ 92474 string characters out of 5903631
+ 337020 words of memory out of 5000000
+ 22328 multiletter control sequences out of 15000+600000
+ 589565 words of font info for 83 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 39i,11n,45p,1202b,306s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/ly1/texnansi.enc}</usr/lo
-cal/texlive/2020/texmf-dist/fonts/type1/bitstrea/charter/bchb8a.pfb></usr/local
-/texlive/2020/texmf-dist/fonts/type1/bitstrea/charter/bchr8a.pfb></usr/local/te
-xlive/2020/texmf-dist/fonts/type1/public/mathdesign/mdbch/md-chr8t.pfb>
-Output written on architectural_design_specification.pdf (14 pages, 207014 byte
+ 39i,11n,45p,1202b,295s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2020/texmf-dist
+/fonts/enc/dvips/ly1/texnansi.enc}</usr/local/texlive/2020/texmf-dist/fonts/typ
+e1/bitstrea/charter/bchb8a.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/
+bitstrea/charter/bchr8a.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/pub
+lic/mathdesign/mdbch/md-chr8t.pfb>
+Output written on architectural_design_specification.pdf (14 pages, 194176 byte
 s).
 PDF statistics:
  71 PDF objects out of 1000 (max. 8388607)
  44 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 31 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 26 words of extra memory for PDF output out of 10000 (max. 10000000)
 
