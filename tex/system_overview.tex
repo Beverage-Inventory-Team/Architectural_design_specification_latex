@@ -6,11 +6,11 @@ The diagram (Figure 1) below shows the basic architectural layer diagram of the 
  \caption{A simple architectural layer diagram}
 \end{figure}
 
-\subsection{Layer X Description}
-Each layer should be described separately in detail. Descriptions should include the features, functions, critical interfaces and interactions of the layer. The description should clearly define the services that the layer provides. Also include any conventions that your team will use in describing the structure: naming conventions for layers, subsystems, modules, and data flows; interface specifications; how layers and subsystems are defined; etc. 
+\subsection{Presentation Layer Description}
+This layer will allow our application to successfully communicate with the user. The features will include the display of login page, page for storing new products in the inventory, and also displaying the desired output for the user. This user level layer is connected with our application layer which will help to display or retrieve the required information that our user is looking for.
 
-\subsection{Layer Y Description}
-Each layer should be described separately in detail. Descriptions should include the features, functions, critical interfaces and interactions of the layer. The description should clearly define the services that the layer provides. Also include any conventions that your team will use in describing the structure: naming conventions for layers, subsystems, modules, and data flows; interface specifications; how layers and subsystems are defined; etc. 
+\subsection{Application Layer Description}
+This layer will serve as a bridge between the presentation layer and data access layer of our application.  No matter what command the user gives in the presentation layer level, these commands will be interpreted by the application layer. Depending on the type of command, this layer will execute the command by accessing the database layer and then channels the accurate and expected output to the presentation layer.
 
-\subsection{Layer Z Description}
-Each layer should be described separately in detail. Descriptions should include the features, functions, critical interfaces and interactions of the layer. The description should clearly define the services that the layer provides. Also include any conventions that your team will use in describing the structure: naming conventions for layers, subsystems, modules, and data flows; interface specifications; how layers and subsystems are defined; etc. 
+\subsection{Database Access Layer Description}
+This layer is the most fragile yet the most critical aspect of our application. This is where the information from the user is stored so that it can be accessed when required in future. We will be using subsytem such as Firebase, SQLite and Global barcode inventory. This layer will be the fulcrum to our team creating and effective management system. Multiple information will be recorded in this layer. This includes login credentials, a product’s name, flavor, type and so on. In brief, this layer will execute the query given by the user in presentation layer and process the result back to application layer which will finally process the information to be displayed in the presentation layer.
