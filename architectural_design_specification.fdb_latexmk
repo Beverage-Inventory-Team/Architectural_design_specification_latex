@@ -7,8 +7,14 @@
   (generated)
   "architectural_design_specification.blg"
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 ["pdflatex"] 1597339218 "/Users/kunalsamant/Documents/UTA/Senior Design /Architectural_design_specification_latex/architectural_design_specification.tex" "/Users/kunalsamant/Documents/UTA/Senior Design /Architectural_design_specification_latex/architectural_design_specification.pdf" "architectural_design_specification" 1597339218
   "/Users/kunalsamant/Documents/UTA/Senior Design /Architectural_design_specification_latex/architectural_design_specification.aux" 1597339218 8 a94a2480d3289e625eea47cd1b285758 ""
+=======
+  "architectural_design_specification.bbl"
+["pdflatex"] 1597339022 "/Users/kunalsamant/Documents/UTA/Senior Design /Architectural_design_specification_latex/architectural_design_specification.tex" "/Users/kunalsamant/Documents/UTA/Senior Design /Architectural_design_specification_latex/architectural_design_specification.pdf" "architectural_design_specification" 1597339022
+  "/Users/kunalsamant/Documents/UTA/Senior Design /Architectural_design_specification_latex/architectural_design_specification.aux" 1597339022 8 a94a2480d3289e625eea47cd1b285758 ""
+>>>>>>> Stashed changes
 =======
   "architectural_design_specification.bbl"
 ["pdflatex"] 1597339022 "/Users/kunalsamant/Documents/UTA/Senior Design /Architectural_design_specification_latex/architectural_design_specification.tex" "/Users/kunalsamant/Documents/UTA/Senior Design /Architectural_design_specification_latex/architectural_design_specification.pdf" "architectural_design_specification" 1597339022
@@ -137,6 +143,7 @@
   "tex/introduction.tex" 1596497771 316 f8ad266af5a5da4d9e001854508ba0e5 ""
   "tex/system_overview.tex" 1597255662 2924 5b053aa30d242e16c0d61b0d1776117c ""
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   "tex/x_layer_subsystems.tex" 1597339217 5371 f53883e90f0b800744a99d7600f13443 ""
   "tex/y_layer_subsystems.tex" 1597339021 1458 c6397c556fdb7ed979e4cc0bccaf47c8 ""
   "tex/z_layer_subsystems.tex" 1597188964 2268 56c5886c02fd449a3c4b9b03a52a3513 ""
@@ -157,6 +164,13 @@
   "tex/z_layer_subsystems.tex" 1597188964 2268 56c5886c02fd449a3c4b9b03a52a3513 ""
   (generated)
   "architectural_design_specification.toc"
+=======
+  "tex/x_layer_subsystems.tex" 1597261985 5371 8d1863785b225b4b10809c16eeb7fd9b ""
+  "tex/y_layer_subsystems.tex" 1597339021 1458 c6397c556fdb7ed979e4cc0bccaf47c8 ""
+  "tex/z_layer_subsystems.tex" 1597188964 2268 56c5886c02fd449a3c4b9b03a52a3513 ""
+  (generated)
+  "architectural_design_specification.toc"
+>>>>>>> Stashed changes
   "architectural_design_specification.lof"
   "architectural_design_specification.log"
   "/Users/kunalsamant/Documents/UTA/Senior Design /Architectural_design_specification_latex/architectural_design_specification.pdf"
@@ -166,4 +180,7 @@
   "/Users/kunalsamant/Documents/UTA/Senior Design /Architectural_design_specification_latex/architectural_design_specification.log"
   "architectural_design_specification.lot"
   "architectural_design_specification.aux"
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
