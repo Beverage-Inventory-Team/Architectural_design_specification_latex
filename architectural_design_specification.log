@@ -1,4 +1,8 @@
+<<<<<<< Updated upstream
 This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.4.7)  13 AUG 2020 12:20
+=======
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.4.7)  13 AUG 2020 12:17
+>>>>>>> Stashed changes
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -595,9 +599,15 @@ Underfull \vbox (badness 10000) detected at line 26
  []
 
 )
+<<<<<<< Updated upstream
 
 LaTeX Warning: Reference `LastPage' on page 2 undefined on input line 97.
 
+=======
+
+LaTeX Warning: Reference `LastPage' on page 2 undefined on input line 97.
+
+>>>>>>> Stashed changes
 [2]
 No file architectural_design_specification.toc.
 \tf@toc=\write5
@@ -660,6 +670,7 @@ or \DeclareInputMath before using this key.
 )
 
 LaTeX Warning: Reference `LastPage' on page 6 undefined on input line 115.
+<<<<<<< Updated upstream
 
 [6 </Users/kunalsamant/Documents/UTA/Senior Design /Architectural_design_specification_latex/images/ADS.jpg>]
 
@@ -671,16 +682,37 @@ File: images/Full.png Graphic file (type png)
 <use images/Full.png>
 Package pdftex.def Info: images/Full.png  used on input line 5.
 (pdftex.def)             Requested size: 469.75502pt x 425.36159pt.
+=======
+
+[6 </Users/kunalsamant/Documents/UTA/Senior Design /Architectural_design_specification_latex/images/ADS.jpg>]
+
+LaTeX Warning: Reference `LastPage' on page 7 undefined on input line 115.
+
+[7] (/Users/kunalsamant/Documents/UTA/Senior Design /Architectural_design_specification_latex/tex/data_flow.tex
+<images/Full.png, id=31, 467.7475pt x 353.32pt>
+File: images/Full.png Graphic file (type png)
+<use images/Full.png>
+Package pdftex.def Info: images/Full.png  used on input line 5.
+(pdftex.def)             Requested size: 469.75502pt x 354.85562pt.
+>>>>>>> Stashed changes
 )
 
 LaTeX Warning: Reference `LastPage' on page 8 undefined on input line 118.
 
 [8 </Users/kunalsamant/Documents/UTA/Senior Design /Architectural_design_specification_latex/images/Full.png>] (/Users/kunalsamant/Documents/UTA/Senior Design /Architectural_design_specification_latex/tex/x_layer_subsystems.tex
+<<<<<<< Updated upstream
 <images/Pre.jpg, id=35, 462.72874pt x 121.45375pt>
 File: images/Pre.jpg Graphic file (type jpg)
 <use images/Pre.jpg>
 Package pdftex.def Info: images/Pre.jpg  used on input line 15.
 (pdftex.def)             Requested size: 281.85587pt x 73.97917pt.
+=======
+<images/App.jpg, id=36, 462.72874pt x 131.49126pt>
+File: images/App.jpg Graphic file (type jpg)
+<use images/App.jpg>
+Package pdftex.def Info: images/App.jpg  used on input line 15.
+(pdftex.def)             Requested size: 281.85587pt x 80.09317pt.
+>>>>>>> Stashed changes
 LaTeX Font Info:    Font shape `T1/mdbch/b/fsc' will be
 (Font)              scaled to size 10.51207pt on input line 19.
 LaTeX Font Info:    Trying to load font information for OT1+mdbch on input line 33.
@@ -800,11 +832,19 @@ Underfull \hbox (badness 10000) in paragraph at lines 37--37
 
 LaTeX Warning: Reference `LastPage' on page 9 undefined on input line 41.
 
+<<<<<<< Updated upstream
 [9 </Users/kunalsamant/Documents/UTA/Senior Design /Architectural_design_specification_latex/images/Pre.jpg>]
 File: images/Pre.jpg Graphic file (type jpg)
 <use images/Pre.jpg>
 Package pdftex.def Info: images/Pre.jpg  used on input line 50.
 (pdftex.def)             Requested size: 281.85587pt x 73.97917pt.
+=======
+[9 </Users/kunalsamant/Documents/UTA/Senior Design /Architectural_design_specification_latex/images/App.jpg>]
+File: images/App.jpg Graphic file (type jpg)
+<use images/App.jpg>
+Package pdftex.def Info: images/App.jpg  used on input line 50.
+(pdftex.def)             Requested size: 281.85587pt x 80.09317pt.
+>>>>>>> Stashed changes
 
 Underfull \hbox (badness 10000) in paragraph at lines 69--69
 []|\T1/mdbch/m/n/10.95 Lists of prod-uct
@@ -848,11 +888,18 @@ Underfull \hbox (badness 10000) in paragraph at lines 98--98
 LaTeX Warning: Reference `LastPage' on page 11 undefined on input line 121.
 
 [11] (/Users/kunalsamant/Documents/UTA/Senior Design /Architectural_design_specification_latex/tex/y_layer_subsystems.tex
+<<<<<<< Updated upstream
 <images/App.jpg, id=45, 467.7475pt x 111.41624pt>
 File: images/App.jpg Graphic file (type jpg)
 <use images/App.jpg>
 Package pdftex.def Info: images/App.jpg  used on input line 11.
 (pdftex.def)             Requested size: 281.85587pt x 67.14096pt.
+=======
+File: images/App.jpg Graphic file (type jpg)
+<use images/App.jpg>
+Package pdftex.def Info: images/App.jpg  used on input line 11.
+(pdftex.def)             Requested size: 281.85587pt x 80.09317pt.
+>>>>>>> Stashed changes
 LaTeX Font Info:    Trying to load font information for TS1+mdbch on input line 17.
  (/usr/local/texlive/2020/texmf-dist/tex/latex/mathdesign/mdbch/ts1mdbch.fd
 File: ts1mdbch.fd 2013/08/29 Fontinst v1.933 font definitions for TS1/mdbch.
@@ -910,7 +957,11 @@ Underfull \hbox (badness 3417) in paragraph at lines 34--34
 
 LaTeX Warning: Reference `LastPage' on page 12 undefined on input line 124.
 
+<<<<<<< Updated upstream
 [12 </Users/kunalsamant/Documents/UTA/Senior Design /Architectural_design_specification_latex/images/App.jpg>] (/Users/kunalsamant/Documents/UTA/Senior Design /Architectural_design_specification_latex/tex/z_layer_subsystems.tex
+=======
+[12] (/Users/kunalsamant/Documents/UTA/Senior Design /Architectural_design_specification_latex/tex/z_layer_subsystems.tex
+>>>>>>> Stashed changes
 <images/DS.jpg, id=49, 462.72874pt x 141.52875pt>
 File: images/DS.jpg Graphic file (type jpg)
 <use images/DS.jpg>
@@ -1000,15 +1051,26 @@ LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
  ) 
 Here is how much of TeX's memory you used:
+<<<<<<< Updated upstream
  6669 strings out of 480608
  95018 string characters out of 5903631
  336939 words of memory out of 5000000
  22334 multiletter control sequences out of 15000+600000
+=======
+ 6663 strings out of 480608
+ 94922 string characters out of 5903631
+ 336939 words of memory out of 5000000
+ 22329 multiletter control sequences out of 15000+600000
+>>>>>>> Stashed changes
  592501 words of font info for 86 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  39i,11n,45p,1293b,306s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/ly1/texnansi.enc}</usr/local/texlive/2020/texmf-dist/fonts/type1/bitstrea/charter/bchb8a.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/bitstrea/charter/bchr8a.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/mathdesign/mdbch/md-chr8t.pfb>
+<<<<<<< Updated upstream
 Output written on "/Users/kunalsamant/Documents/UTA/Senior Design /Architectural_design_specification_latex/architectural_design_specification.pdf" (14 pages, 213695 bytes).
+=======
+Output written on "/Users/kunalsamant/Documents/UTA/Senior Design /Architectural_design_specification_latex/architectural_design_specification.pdf" (14 pages, 192365 bytes).
+>>>>>>> Stashed changes
 PDF statistics:
  71 PDF objects out of 1000 (max. 8388607)
  44 compressed objects within 1 object stream
