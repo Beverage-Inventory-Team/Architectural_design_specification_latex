@@ -1,6 +1,10 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.4.7)  13 AUG 2020 12:20
+=======
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.4.7)  13 AUG 2020 12:17
+>>>>>>> Stashed changes
 =======
 This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.4.7)  13 AUG 2020 12:17
 >>>>>>> Stashed changes
@@ -605,9 +609,15 @@ Underfull \vbox (badness 10000) detected at line 26
 )
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 
 LaTeX Warning: Reference `LastPage' on page 2 undefined on input line 97.
 
+=======
+
+LaTeX Warning: Reference `LastPage' on page 2 undefined on input line 97.
+
+>>>>>>> Stashed changes
 =======
 
 LaTeX Warning: Reference `LastPage' on page 2 undefined on input line 97.
@@ -682,6 +692,7 @@ or \DeclareInputMath before using this key.
 LaTeX Warning: Reference `LastPage' on page 6 undefined on input line 115.
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 =======
 >>>>>>> Stashed changes
 
@@ -705,12 +716,23 @@ LaTeX Warning: Reference `LastPage' on page 7 undefined on input line 115.
 [7] (/Users/kunalsamant/Documents/UTA/Senior Design /Architectural_design_specification_latex/tex/data_flow.tex
 =======
 >>>>>>> Stashed changes
+=======
+
+[6 </Users/kunalsamant/Documents/UTA/Senior Design /Architectural_design_specification_latex/images/ADS.jpg>]
+
+LaTeX Warning: Reference `LastPage' on page 7 undefined on input line 115.
+
+[7] (/Users/kunalsamant/Documents/UTA/Senior Design /Architectural_design_specification_latex/tex/data_flow.tex
+>>>>>>> Stashed changes
 <images/Full.png, id=31, 467.7475pt x 353.32pt>
 File: images/Full.png Graphic file (type png)
 <use images/Full.png>
 Package pdftex.def Info: images/Full.png  used on input line 5.
 (pdftex.def)             Requested size: 469.75502pt x 354.85562pt.
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
@@ -721,12 +743,15 @@ LaTeX Warning: Reference `LastPage' on page 8 undefined on input line 118.
 [8 </Users/kunalsamant/Documents/UTA/Senior Design /Architectural_design_specification_latex/images/Full.png>] (/Users/kunalsamant/Documents/UTA/Senior Design /Architectural_design_specification_latex/tex/x_layer_subsystems.tex
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 <images/Pre.jpg, id=35, 462.72874pt x 121.45375pt>
 File: images/Pre.jpg Graphic file (type jpg)
 <use images/Pre.jpg>
 Package pdftex.def Info: images/Pre.jpg  used on input line 15.
 (pdftex.def)             Requested size: 281.85587pt x 73.97917pt.
 =======
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 <images/App.jpg, id=36, 462.72874pt x 131.49126pt>
@@ -856,12 +881,15 @@ LaTeX Warning: Reference `LastPage' on page 9 undefined on input line 41.
 
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 [9 </Users/kunalsamant/Documents/UTA/Senior Design /Architectural_design_specification_latex/images/Pre.jpg>]
 File: images/Pre.jpg Graphic file (type jpg)
 <use images/Pre.jpg>
 Package pdftex.def Info: images/Pre.jpg  used on input line 50.
 (pdftex.def)             Requested size: 281.85587pt x 73.97917pt.
 =======
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 [9 </Users/kunalsamant/Documents/UTA/Senior Design /Architectural_design_specification_latex/images/App.jpg>]
@@ -915,6 +943,7 @@ LaTeX Warning: Reference `LastPage' on page 11 undefined on input line 121.
 [11] (/Users/kunalsamant/Documents/UTA/Senior Design /Architectural_design_specification_latex/tex/y_layer_subsystems.tex
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 <images/App.jpg, id=45, 467.7475pt x 111.41624pt>
 File: images/App.jpg Graphic file (type jpg)
 <use images/App.jpg>
@@ -923,11 +952,16 @@ Package pdftex.def Info: images/App.jpg  used on input line 11.
 =======
 =======
 >>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
 File: images/App.jpg Graphic file (type jpg)
 <use images/App.jpg>
 Package pdftex.def Info: images/App.jpg  used on input line 11.
 (pdftex.def)             Requested size: 281.85587pt x 80.09317pt.
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
@@ -990,7 +1024,11 @@ LaTeX Warning: Reference `LastPage' on page 12 undefined on input line 124.
 
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 [12 </Users/kunalsamant/Documents/UTA/Senior Design /Architectural_design_specification_latex/images/App.jpg>] (/Users/kunalsamant/Documents/UTA/Senior Design /Architectural_design_specification_latex/tex/z_layer_subsystems.tex
+=======
+[12] (/Users/kunalsamant/Documents/UTA/Senior Design /Architectural_design_specification_latex/tex/z_layer_subsystems.tex
+>>>>>>> Stashed changes
 =======
 [12] (/Users/kunalsamant/Documents/UTA/Senior Design /Architectural_design_specification_latex/tex/z_layer_subsystems.tex
 >>>>>>> Stashed changes
@@ -1088,6 +1126,7 @@ LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 Here is how much of TeX's memory you used:
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
  6669 strings out of 480608
  95018 string characters out of 5903631
  336939 words of memory out of 5000000
@@ -1095,11 +1134,16 @@ Here is how much of TeX's memory you used:
 =======
 =======
 >>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
  6663 strings out of 480608
  94922 string characters out of 5903631
  336939 words of memory out of 5000000
  22329 multiletter control sequences out of 15000+600000
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
@@ -1109,7 +1153,11 @@ Here is how much of TeX's memory you used:
 {/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/ly1/texnansi.enc}</usr/local/texlive/2020/texmf-dist/fonts/type1/bitstrea/charter/bchb8a.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/bitstrea/charter/bchr8a.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/mathdesign/mdbch/md-chr8t.pfb>
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 Output written on "/Users/kunalsamant/Documents/UTA/Senior Design /Architectural_design_specification_latex/architectural_design_specification.pdf" (14 pages, 213695 bytes).
+=======
+Output written on "/Users/kunalsamant/Documents/UTA/Senior Design /Architectural_design_specification_latex/architectural_design_specification.pdf" (14 pages, 192365 bytes).
+>>>>>>> Stashed changes
 =======
 Output written on "/Users/kunalsamant/Documents/UTA/Senior Design /Architectural_design_specification_latex/architectural_design_specification.pdf" (14 pages, 192365 bytes).
 >>>>>>> Stashed changes
