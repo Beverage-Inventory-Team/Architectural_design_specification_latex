@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.4.7)  13 AUG 2020 14:57
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.4.7)  13 AUG 2020 14:58
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1082,11 +1082,7 @@ Underfull \hbox (badness 4084) in paragraph at lines 87--87
 No file architectural_design_specification.bbl.
 
 AED: lastpage setting LastPage
-(./architectural_design_specification.aux)
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
- ) 
+(./architectural_design_specification.aux) ) 
 Here is how much of TeX's memory you used:
  6670 strings out of 480608
  92570 string characters out of 5903631
@@ -1095,10 +1091,11 @@ Here is how much of TeX's memory you used:
  589565 words of font info for 83 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  39i,11n,45p,1202b,301s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/ly1/texnansi.enc}</usr/lo
-cal/texlive/2020/texmf-dist/fonts/type1/bitstrea/charter/bchb8a.pfb></usr/local
-/texlive/2020/texmf-dist/fonts/type1/bitstrea/charter/bchr8a.pfb>
-Output written on architectural_design_specification.pdf (16 pages, 219270 byte
+{/usr/local/texlive/2020/texmf-dist
+/fonts/enc/dvips/ly1/texnansi.enc}</usr/local/texlive/2020/texmf-dist/fonts/typ
+e1/bitstrea/charter/bchb8a.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/
+bitstrea/charter/bchr8a.pfb>
+Output written on architectural_design_specification.pdf (16 pages, 219375 byte
 s).
 PDF statistics:
  73 PDF objects out of 1000 (max. 8388607)
